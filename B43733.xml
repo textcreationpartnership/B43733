@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Prynnes letter to the Borrough of Newport in Cornwall, for which he serves in Parliament</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43733</idno><idno type="EEBO-CITATION">688634844</idno>
+  <idno type="VID">212051</idno>
+  <idno type="EEBO-PROQUEST">2240867578</idno>
+  
+            <idno type="OCLC"> 688634844</idno>
+            <idno type="OCLC">ocn 688634844</idno>
+            <idno type="STC">Wing P3999A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212051)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2998:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Prynnes letter to the Borrough of Newport in Cornwall, for which he serves in Parliament</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1648?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: two copies of this pamphlet are interleaved and bound together.</note>
+                  <note>Reproduction of original in: Queen's College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:212051:1"/>
+            <pb facs="tcp:212051:2"/>
+            <pb facs="tcp:212051:2"/>
+            <head>Mr. PRYNNES LETTER To the <hi>Borrough</hi> of <hi>NEWPORT</hi> in <hi>Cornwall,</hi> for which he serves in <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>BEING freely and unanimously elected by you (without my privity or seeking) to serve as one of your <hi>Burgesses</hi> in this <hi>Parliament,</hi> I have since my entrance into the Commons House (the 7th of <hi>Novemb.</hi> last) endeavoured to the best of my skill &amp; Judgement, faithfully to discharge that trust and duty you repos'd in me, (according to my Conscience) to put a speedy and happy period to our <hi>unnaturall</hi> long-lasting bloody <hi>Warres,</hi> and settle a <hi>firme well<g ref="char:EOLhyphen"/>grounded peace,</hi> upon such Terms of <hi>honor, freedom, safety,</hi> &amp; <hi>advantage,</hi> as no Subjects under Heaven ever yet enjoyed from the Creation til this present, What my indefatigable endeavours were herein, in drawing up al the <hi>Bills</hi> upon the <hi>Kings Concessions</hi> in the late <hi>Treaty,</hi> is wel known to most of the <hi>Members</hi> then sitting, and what I delivered in the <hi>House</hi> upon the <hi>Debate</hi> of the <hi>Kings Answers to our Propositions</hi> up<g ref="char:EOLhyphen"/>on the whole <hi>Treaty</hi> (with a sincere and publike spirit, ayming at no<g ref="char:EOLhyphen"/>thing but yours and the whole Kingdomes felicity and prosperity, not a<g ref="char:EOLhyphen"/>ny private interest of mine owne) I have sent you here in print, being falsely charged by a new erected <hi>Generall Councell of Officers of the Army</hi> (who have <hi>trayterously</hi> usurped to themselves the <hi>supreame Au<g ref="char:EOLhyphen"/>thority of the Kingdom,</hi> &amp; against the knowne <hi>Priviledges of Parlia.</hi> the <hi>Liberty of the Subjects,</hi> and the <hi>Law of the Land</hi> forcibly seised on my selfe, and divers other <hi>eminent Members</hi> going to the House to discharge our duties, on the 6th. and 7th. of <hi>December</hi> last, in pursu<g ref="char:EOLhyphen"/>ance
+<pb facs="tcp:212051:3"/>of the <hi>Treaty,</hi> and secluded me and them from sitting there ever since, to yours and the whole Kingdomes prejudice) among other secu<g ref="char:EOLhyphen"/>red Members in the grosse, <hi>for an Apostate from the publike trust which you reposed in me, only for this</hi> SPEECH, <hi>and the</hi> VOTE of the <hi>whole house,</hi> for the <hi>settlement of the Kingdomes peace,</hi> made in pursuance of it; they having no particular matter else to charge mee with [had they any just power to impeach or seclude me, which they have not) but this alone. How <hi>perfidiously</hi> and <hi>iniuriously</hi> they have dealt with, and how <hi>scandalously</hi> they have traduced and libelled a<g ref="char:EOLhyphen"/>gainst me, and the other <hi>restrained Members</hi> in print, upon this occa<g ref="char:EOLhyphen"/>sion only, you may reade in the <hi>Epistle to the Reader;</hi> though mine and the other <hi>Members</hi> innocency be so perspicuous, that they confess, <hi>they have yet no particular matters of impeachment against us,</hi> after a<g ref="char:EOLhyphen"/>bove 7. weeks imprisonment, <hi>but promise shortly to produce some</hi> [if they can:) whereas their owne <hi>Treasonable Rebellions, violences, per<g ref="char:EOLhyphen"/>iuries</hi> and crimes, written with <hi>Sunbeams</hi> in their very foreheads, are visible to all the world, and need no witnesses to prove their gvilt; their late unparallel'd exorbitances and proceedings both against the <hi>King, Parliament, Lords, Members, City and Countrey</hi> being knowne and apparent unto all. <hi>I</hi> shall therefore appeale from these <hi>usurpers,</hi> (who have no more Authority to question or restrain me, for any reall or pretended <hi>breach of my Trust, as a Member,</hi> were I guilty of it, then the meanest <hi>Servant</hi> hath to call his Master to account for mis<g ref="char:EOLhyphen"/>governing his family, or to shut him out of doores:] unto you alone, who elected me, and are best able to know and judge of your <hi>own trust;</hi> desiring your speedy resolution of this Question, <hi>Whether in that here in spoken or voted by me, I have any wayes violated the trust or faith which you and every of you reposed in me?</hi> For which <hi>Speech and Vote,</hi> though <hi>I</hi> am <hi>Iudicially accountable</hi> only to the <hi>Commons House,</hi> which knowes the true grounds upon which I went, and can only truly <hi>Iudge</hi> of what was there spoken and voted (none <hi>being</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>i judi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, cog<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>se. SE<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>CA.</note>
+               <hi>fit to Iudge</hi> any thing but those <hi>who know and hear it too</hi>) the <hi>maiority</hi> of which house concurred with me in the <hi>vote,</hi> without any division: yet, I hold my selfe in some sort ministerially <hi>accomptable</hi> unto you for whom I serve as the properest <hi>Iudges,</hi> without the <hi>House doores,</hi> of what I spake or <hi>voted</hi> in your behalfe. From whom I shall humbly request so much right and justice, upon the perusal of the <hi>inclosed Speech</hi> and <hi>papers,</hi> [which I desire may be read openly before all my <hi>Electors</hi> at your next
+<pb facs="tcp:212051:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:212051:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:212051:4"/>publique meeting) as to testify to the world under your <hi>hands</hi> and <hi>seals</hi> (which you set to the return of my <hi>Election</hi>] your own Iudgements &amp; opinions, <hi>whether I have betrayed or broken the Trust you reposed in me or not, by what I</hi> spake or <hi>voted in this debate?</hi> and what sence you have of the Armies forcible secluding and imprisoning me [your <hi>Bur<g ref="char:EOLhyphen"/>gesse</hi>] from the <hi>House,</hi> among other <hi>Members,</hi> above seven weekes space together, contrary to mine and your <hi>undoubted Priviledge;</hi> how farre you conceive your selves obliged by ought that hath been or shall be concluded or voted in the House during the <hi>Armies force</hi> upon it, &amp; your <hi>Burgesses</hi> [&amp; most other <hi>Members] violent seclusion</hi> thence, against all <hi>Law</hi> and <hi>president,</hi> and what reparations you expect for this high <hi>Injustice</hi> to your selves and me: With what else you think fit to determine touching the premises: And if you deeme it necessary, to returne your results herein to me, with all convenient speed: who shall make the best advantage thereof for yours, mine owne and the Kingdomes benefit: whose <hi>peace</hi> (by Gods blessing) had been fully set<g ref="char:EOLhyphen"/>tled to your <hi>hearts content</hi> before this time, had not the <hi>Enemies of Peace</hi> (who gaine their livings by the Warres) interrupted our procee<g ref="char:EOLhyphen"/>dings by <hi>Imprisoning</hi> and secluding the greatest part of the <hi>Members,</hi> and particularly</p>
+            <closer>
+               <dateline>From the <hi>Kings Head</hi> in the <hi>Strand</hi>
+                  <date>Ian. 26. 1648.</date>
+               </dateline>
+               <signed>Your most affectionat friend and faithfull servant and Burgesse. WILLIAM PRYNNE.</signed>
+            </closer>
+            <trailer>To his honoured Friends the Vianders and free Bur<g ref="char:EOLhyphen"/>gesses of the Borrough of <hi>Newport</hi> in Cornwall, these present.</trailer>
+            <pb facs="tcp:212051:5"/>
+            <pb facs="tcp:212051:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:212051:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
